@@ -4,7 +4,7 @@ Components and libraries:
 
 - [x] [SSR](https://kit.svelte.dev/docs/page-options#ssr) [SvelteKit](https://github.com/sveltejs/kit) with [Hydration](https://kit.svelte.dev/docs/glossary#hydration)
 - [x] [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-- [ ] [Histoire](https://histoire.dev/)
+- [x] [Histoire](https://histoire.dev/)
 
 Tooling:
 
