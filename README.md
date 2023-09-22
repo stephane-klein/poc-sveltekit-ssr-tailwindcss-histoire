@@ -32,6 +32,14 @@ $ pnpm run dev
 
 Go to http://localhost:5173
 
+## Start Histoire
+
+```sh
+$ pnpm run story:dev
+```
+
+Go to http://localhost:6006
+
 ## Prettier
 
 Launch Prettier check:
